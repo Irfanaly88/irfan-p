@@ -196,7 +196,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://res.cloudinary.com/dj76rr9lz/image/upload/v1761996677/postman-logo-vert-2018_qbu4si.jpg",
       },
       {
         name: "Adobe XD",
@@ -206,7 +206,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://res.cloudinary.com/dj76rr9lz/image/upload/v1761996625/figma-white-circle-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png_t5kwvy.png",
       },
     ],
   },
@@ -215,17 +215,17 @@ export const skills = [
 export const experiences = [
   {
     id: 1,
-    img: "https://res.cloudinary.com/dfrimhozm/image/upload/v1695793853/Portfolioimages/xs-8QLjJ_400x400_qufhen.jpg",
-    role: " SDE Intern",
+    img: "https://res.cloudinary.com/dj76rr9lz/image/upload/v1761995680/carsbuzz-technologies-opc-private-limited-53d650be_sn1ex1.jpg",
+    role: " SDE 1",
     company: "Carbuzz Technologies.",
-    date: "November 2023 - April 2024",
+    date: "November 2023 - May 2025",
     desc: "Developed and managed the company's official website using Angular, ensuring responsive design and optimal performance.",
     skills: [
       "Html",
       "Css",
       "Js",
+      "Resct JS",
       "Angular 17",
-      "Mysql",
       "Bootstrap 5",
       "Git-Github",
     ],
@@ -234,12 +234,12 @@ export const experiences = [
 
   {
     id: 0,
-    img: "https://res.cloudinary.com/dfrimhozm/image/upload/v1695792042/Portfolioimages/1590134765632_wod2wr.jpg",
+    img: "https://res.cloudinary.com/dj76rr9lz/image/upload/v1761995486/investcloud_logo_i3lg13.jpg",
     role: " Software Developer",
-    company: "Carbuzz Technologies.",
-    date: "April 2024 - Present",
-    desc: "Develop and manage backend services, create and maintain APIs, collaborate with front-end teams, ensure system reliability, and optimize performance. Contribute to innovative projects, enhancing technical skills in a dynamic environment.",
-    skills: ["Core Java", "Advanced Java"],
+    company: "InvestCloud",
+    date: "July 2025 - Present",
+    desc: "Developing dynamic and responsive frontend features using Angular for the PMA platform. Designing and implementing automated UI tests using Playwright to ensure high-quality releases. Building and managing CI/CD pipelines using GitLab for automated deployment and integration. Collaborating with cross-functional teams to deliver scalable and maintainable solutions.",
+    skills: ["Angular 20", "TypeScript","JavaScript", "RxJS","NgRx","Material Design", "Playwright (UI Automation)","GitLab CI/CD","Deployment automation","pipeline creation","Jira"],
     // doc: "https://res.cloudinary.com/dfrimhozm/image/upload/v1695792874/Portfolioimages/Screenshot_1623_xxxuno.png",
   },
   // {
